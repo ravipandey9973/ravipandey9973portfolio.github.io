@@ -1,0 +1,52 @@
+
+header
+{
+float:right;
+}
+body
+{
+
+background-image:url("build.jpg");
+background-repeat:no;
+background-position:right top;
+background-size:80% 500%;
+margin-right:200px;
+background-attachment:scroll;
+background-color:black;
+overflow-y: scroll;
+}
+#a
+{
+background-color:red;
+}
+#b
+{
+background-color:pink;
+}
+#c
+{
+background-color:brown;
+}
+#d
+{
+background-color:orange;
+}
+#e
+{
+background-color:blue;
+}
+#f
+{
+
+font-size:50px;
+padding:100px;
+}
+#g {
+  position: absolute;
+  bottom: 50px;
+  right: 20px;
+  font-size: 18px;
+}
+
+
+
